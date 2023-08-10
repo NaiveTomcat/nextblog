@@ -31,7 +31,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: d1f95c6391900fdd0089a72528cd82b9
-          projectName: naivetomcat-blog-next
+          projectName: nextblog-naivetomcat
           directory: src/.vuepress/dist
           # Optional: Enable this if you want to have GitHub Deployments triggered
           # gitHubToken: ${{ secrets.GITHUB_TOKEN }}
