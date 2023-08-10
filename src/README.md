@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: Blog Home 
-heroImage: /logo.svg
+heroImage: /img/neko_avatar_transparent.png
 heroText: NaiveTomcat's Blog
 heroFullScreen: true
 tagline: A Place of Mental Asylum

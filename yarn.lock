@@ -1810,6 +1810,15 @@
     "@vuepress/utils" "2.0.0-beta.66"
     execa "^7.1.1"
 
+"@vuepress/plugin-google-analytics@^2.0.0-beta.66":
+  version "2.0.0-beta.66"
+  resolved "https://registry.npmmirror.com/@vuepress/plugin-google-analytics/-/plugin-google-analytics-2.0.0-beta.66.tgz#92fc06f326359a3e81e549d46eca19456790e26e"
+  integrity sha512-RkesQtJtjIi3SczbkBbzJjHM9j85kB5OI3kiXP0K1GOAJk8Nx0vWvZSUyqn8dhjiYsZ2e/gCDZIfhUUpEPN6qg==
+  dependencies:
+    "@vuepress/client" "2.0.0-beta.66"
+    "@vuepress/core" "2.0.0-beta.66"
+    "@vuepress/utils" "2.0.0-beta.66"
+
 "@vuepress/plugin-medium-zoom@2.0.0-beta.66":
   version "2.0.0-beta.66"
   resolved "https://registry.npmmirror.com/@vuepress/plugin-medium-zoom/-/plugin-medium-zoom-2.0.0-beta.66.tgz#fa1e2b722cf99b05c89a54fea322ca1d86ac201e"

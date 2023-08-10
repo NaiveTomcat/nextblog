@@ -1,6 +1,7 @@
 import { defineUserConfig } from "vuepress";
 import { getDirname, path } from "@vuepress/utils";
 import theme from "./theme.js";
+import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics"
 
 const __dirname = getDirname(import.meta.url);
 
@@ -21,4 +22,9 @@ export default defineUserConfig({
       "./components/BlogHero.vue",
     ),
   },
+  plugins: [
+    googleAnalyticsPlugin({
+      id: "G-J5G7BLH0FZ",
+    })
+  ]
 });
