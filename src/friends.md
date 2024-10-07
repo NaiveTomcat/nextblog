@@ -27,10 +27,10 @@ textColor: "#102030"
 ```
 
 ```card
-title: NTEREN
-desc: NaiveTomcat Education and Research Exprimental Network
-link: https://about.nteren.net/
-logo: /img/neko_avatar_blue.png
+title: Dale's Blog
+desc: Dale的小地盘
+link: https://blog.dalenull.work
+logo: https://blog.dalenull.work/images/avatar.png
 bgColor: "#49CDD9"
 textColor: "#102030"
 ```
