@@ -6,7 +6,7 @@ sidebar: false
 timeline: false
 ---
 
-This is the station log of the amateur radio station BI9xxx, kept according to relevant regulations.
+This is the station log of the amateur radio station BI9CCY, kept according to relevant regulations.
 
 | Date       | Time UTC+8 | Callsign | Frequency MHz | Mode | RST Sent | RST Received | Remarks | Operator |
 |------------|------------|----------|---------------|------|----------|--------------|---------|----------|
