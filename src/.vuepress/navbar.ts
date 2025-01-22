@@ -8,4 +8,5 @@ export default navbar([
   "/dn42/",
   "/friends",
   "/timeline/",
+  "/station_log/"
 ]);
