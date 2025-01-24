@@ -15,3 +15,4 @@ This is the station log of the amateur radio station BI9CCY, kept according to r
 | 20250122   | 2135       | BH9EYX   | 438.500       | FM   |  59      |  59          |         |          |
 | 20250122   | 2140       | BH9EYX   | 439.650/-8    | FM   |  59      |  45          |VIA RELAY|          |
 | 20250123   | 1015       | BI9BRH   | 438.500       | FM   |  59      |  59          |         |          |
+| 20250124   | 2030       | BI9CFL   | 439.650/-8    | FM   |  58      |  57          |VIA RELAY|          |
