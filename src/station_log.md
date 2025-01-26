@@ -23,3 +23,6 @@ This is the station log of the amateur radio station BI9CCY, kept according to r
 | 20250126   | 1650       | BH9EAU   | 430.400/+9    | FM   |  59      |  59          |VIA RELAY|          |
 | 20250126   | 1710       | BH9BAK   | 430.400/+9    | FM   |  59      |  59          |VIA RELAY|          |
 | 20250126   | 1720       | BI9BXT   | 430.400/+9    | FM   |  59      |  59          |VIA RELAY|          |
+| 20250126   | 1725       | BI9BUM   | 430.400/+9    | FM   |  59      |  59          |VIA RELAY|          |
+| 20250126   | 1730       | BI9CHB   | 430.400/+9    | FM   |  48      |  59          |VIA RELAY|          |
+| 20250126   | 1733       | BI9BBL   | 430.400/+9    | FM   |  59      |  59          |VIA RELAY|          |
