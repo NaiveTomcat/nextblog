@@ -29,3 +29,4 @@ This is the station log of the amateur radio station BI9CCY, kept according to r
 | 20250126   | 2030       | BI9AJK   | 430.400/+9    | FM   |  59      |  59          |VIA RELAY|          |
 | 20250126   | 2035       | BG9AST   | 430.400/+9    | FM   |  59      |  59          |VIA RELAY|          |
 | 20250126   | 2037       | BG9AST   | 438.500       | FM   |  59      |  59          |         |          |
+| 20250212   | 2035       | BI9CZU   | 430.400/+9    | FM   |  59      |  59          |VIA RELAY|          |
