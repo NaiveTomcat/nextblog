@@ -36,3 +36,4 @@ This is the station log of the amateur radio station BI9CCY, kept according to r
 | 20250226   | 1805       | BI9TTR   | 430.400/+9    | FM   |  48      |  59          |VIA RELAY|          |
 | 20250226   | 2205       | BI9BUM   | 430.400/+9    | FM   |  48      |  59          |VIA RELAY|          |
 | 20250226   | 2208       | BI9ENW   | 430.400/+9    | FM   |  48      |  59          |VIA RELAY|          |
+| 20250808   | 2105       | BA4SEX   | 438.500       | FM   |  59      |  59          |         |          |
