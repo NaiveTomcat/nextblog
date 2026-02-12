@@ -1,0 +1,16 @@
+{
+    "headers": [
+        {
+            "key": "Access-Control-Allow-Origin",
+	    "value": "https://foorin.cosmictech.cn"
+	},
+	{
+	    "key": "Access-Control-Allow-Methods",
+	    "value": "GET,POST,OPTIONS"
+	},
+	{
+	    "key": "Access-Control-Allow-Headers",
+	    "value": "Content-Type, Authorization"
+	}
+    ]
+}
