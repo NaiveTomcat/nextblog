@@ -12,6 +12,8 @@ tag:
 
 ## 前言
 
+**[请看这篇补充说明](/pages/b0ee24/)**
+
 最近更新了手机，由OnePlus Ace换成了Ace3，并且在收货后立刻刷入了`PixelOS`。在刷入过程中虽遇到了一些问题（见[这里及之后几条](https://t.me/neko_rei/210)，但最终成功刷入。使用过程中发现，类原生系统并无国产OEM系统的门禁卡模拟（即Mifare Classic卡的UID模拟）功能。本文记录了我在类原生系统上实现Mifare Classic卡UID模拟的过程。
 
 ## 基础知识
