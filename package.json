@@ -22,5 +22,6 @@
   },
   "dependencies": {
     "md5": "^2.3.0"
-  }
+  },
+  "packageManager": "yarn@4.16.0"
 }
