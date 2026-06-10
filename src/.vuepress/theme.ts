@@ -95,11 +95,11 @@ export default hopeTheme({
       
     },
 
-    feed: {
-      atom: true,
-      rss: true,
-      json: true,
-    },
+    // feed: {
+    //   atom: true,
+    //   rss: true,
+    //   json: true,
+    // },
 
     components: {
       components: [
