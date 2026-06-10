@@ -18,7 +18,7 @@ export default hopeTheme({
   logo: "/img/neko_avatar_blue.png",
 
   repo: "NaiveTomcat/nextblog",
-
+  docsBranch: "master",
   docsDir: "src",
 
   // navbar
