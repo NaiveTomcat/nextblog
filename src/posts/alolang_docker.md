@@ -4,7 +4,7 @@ date: 2021-09-13 20:20:00
 tag: 
   - 开发
   - AloLang
-sidebar: auto
+sidebar: false
 category: 
   - 开发
 permalink: /pages/3cbd5f/

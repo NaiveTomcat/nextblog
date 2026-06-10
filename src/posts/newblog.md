@@ -6,7 +6,7 @@ tag:
   - 杂项
   - 前端
 permalink: /pages/c26a43/
-sidebar: auto
+sidebar: false
 category: 
   - 随笔
 ---

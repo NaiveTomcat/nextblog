@@ -2,7 +2,7 @@
 title: 使用PowerDNS搭建全球分地区DNS解析服务
 date: 2023-01-29 23:23:30
 permalink: /pages/33420f/
-sidebar: auto
+sidebar: false
 category:
   - 随笔
   - 网络

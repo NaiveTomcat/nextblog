@@ -1,4 +1,5 @@
 import { defineUserConfig } from "vuepress";
+import { viteBundler } from '@vuepress/bundler-vite'
 import { getDirname, path } from "@vuepress/utils";
 import theme from "./theme.js";
 import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics"
@@ -12,7 +13,11 @@ export default defineUserConfig({
   title: "NaiveTomcat's Blog",
   description: "Blog of NaiveTomcat",
 
-  theme,
+  theme: theme,
+  bundler: viteBundler({
+    viteOptions: {},
+    vuePluginOptions: {},
+  }),
 
   // Enable it with pwa
   // shouldPrefetch: false,

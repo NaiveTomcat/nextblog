@@ -11,10 +11,16 @@
     "docs:update-package": "yarn dlx vp-update"
   },
   "devDependencies": {
-    "@vuepress/client": "2.0.0-beta.66",
-    "@vuepress/plugin-google-analytics": "^2.0.0-beta.66",
+    "@vuepress/bundler-vite": "next",
+    "@vuepress/plugin-google-analytics": "next",
+    "markdown-it": "^14.2.0",
+    "mermaid": "^11.15.0",
+    "sass-embedded": "^1.100.0",
     "vue": "^3.2.47",
-    "vuepress": "2.0.0-beta.66",
-    "vuepress-theme-hope": "2.0.0-beta.234"
+    "vuepress": "next",
+    "vuepress-theme-hope": "2.0.0-rc.106"
+  },
+  "dependencies": {
+    "md5": "^2.3.0"
   }
 }

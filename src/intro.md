@@ -3,6 +3,7 @@ icon: circle-info
 article: false
 sidebar: false
 timeline: false
+permalink: /intro/
 ---
 
 # 介绍页

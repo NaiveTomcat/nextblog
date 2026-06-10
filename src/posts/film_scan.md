@@ -2,7 +2,7 @@
 title: 胶片的数字化流程——平板扫描仪扫描与校色
 date: 2023-04-20 22:07:16
 permalink: /pages/bfd58a/
-sidebar: auto
+sidebar: false
 category:
   - 随笔
 tag:

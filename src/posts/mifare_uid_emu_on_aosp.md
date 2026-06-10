@@ -2,7 +2,7 @@
 title: 类原生系统上的Mifare Classic UID模拟
 date: 2024-12-21 00:40:00
 permalink: /pages/9a7f60/
-sidebar: auto
+sidebar: false
 category:
   - 开发
 tag:

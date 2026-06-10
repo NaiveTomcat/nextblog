@@ -6,45 +6,45 @@ sidebar: false
 timeline: false
 ---
 
-::: card
+<div class="vp-card-container">
 
-```card
+<!-- ```component VPCard
 title: Pixia的小天地
 desc: Pixia的小天地，平时就分享一些自己的想法~
 link: https://blogs.pixia.tech/
 logo: https://blog.pixia.tech/img/avatar.jpg
 bgColor: "#69D6DF"
 textColor: "#102030"
-```
+``` -->
 
-```card
+```component VPCard
 title: Ayanami Rei IV
 desc: Across the sea of LCL we can reach everywhere in the world.
 link: https://blog.ayanami-official.net/
 logo: https://blog.ayanami-official.net/avatar.png
-bgColor: "#44eeff"
-textColor: "#102030"
+background: "#44eeff"
+color: "#102030"
 ```
 
-```card
+```component VPCard
 title: Dale's Blog
 desc: Dale的小地盘
 link: https://blog.dalenull.work
 logo: https://blog.dalenull.work/images/avatar.png
-bgColor: "#49CDD9"
-textColor: "#102030"
+background: "#49CDD9"
+color: "#102030"
 ```
 
-```card
+<!-- ```component VPCard
 title: XJTU ANA
 desc: Accociation of Network Administrators of XJTU
 link: https://xjtuana.com/
 logo: https://xjtuana.com/static/img/logo.png
 bgColor: "#69D6DF"
 textColor: "#102030"
-```
+``` -->
 
-:::
+</div>
 
 ## 申请友链
 

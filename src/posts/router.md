@@ -4,7 +4,7 @@ date: 2021-04-21 00:00:00
 tag: 
   - 开发
   - 杂项
-sidebar: auto
+sidebar: false
 category: 
   - 随笔
   - 开发

@@ -3,7 +3,7 @@ title: 2025年年度总结
 date: 2026-01-03 00:00:00
 tag:
   - 杂项
-sidebar: auto
+sidebar: false
 category:
   - 开发
 permalink: /pages/7647ee/

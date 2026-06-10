@@ -6,7 +6,7 @@ tag:
   - Python
   - TensorFlow
   - CUDA
-sidebar: auto
+sidebar: false
 category: 
   - 开发
 permalink: /pages/787b52/

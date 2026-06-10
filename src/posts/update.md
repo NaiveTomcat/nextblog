@@ -2,7 +2,7 @@
 title: 时隔一年多的博客更新
 date: 2022-10-14 18:57:50
 permalink: /pages/c55b75/
-sidebar: auto
+sidebar: false
 category:
   - 随笔
 tag:

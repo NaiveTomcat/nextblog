@@ -2,7 +2,7 @@
 title: 通过隧道的互联网连接之小记
 date: 2024-9-26 15:11:00
 permalink: /pages/d2e4ba/
-sidebar: auto
+sidebar: false
 category:
   - 网络
 tag:

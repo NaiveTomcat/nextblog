@@ -5,7 +5,7 @@ tag:
   - 开发
   - 系统
   - 笔记本
-sidebar: auto
+sidebar: false
 category: 
   - 开发
 permalink: /pages/0214cf/

@@ -2,7 +2,7 @@
 title: NTEREN网络重构
 date: 2022-10-31 10:29:18
 permalink: /pages/4522ca/
-sidebar: auto
+sidebar: false
 category:
   - 开发
 tag:
