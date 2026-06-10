@@ -12,7 +12,9 @@ tag:
 
 ## 前言
 
-我们都知道，Sega的Access Code以`0103 6`开头的使用Mifare Classic技术的AIME卡，它的Access Code是有内在校验规则的。参考[这里](https://blog.sparrowhe.top/2025/10/13/arcade-game-card-part1/)。
+我们都知道，SEGA的Classical Aime卡片是以Mifare Classic技术为基础的，其Access Code有内在校验规则。参考[这里](https://blog.sparrowhe.top/2025/10/13/arcade-game-card-part1/)。
+
+本工具旨在通过明文Serial计算此种卡片以0103 6开头的20位合法Access Code。
 
 此页面即是一个简单的计算器，用来通过明文`Serial`计算20位Access Code.
 
