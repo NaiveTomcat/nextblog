@@ -38,12 +38,20 @@ tag:
   <span v-if="error" style="color:#e74c3c; grid-column:3">{{ error }}</span>
 </div>
 
+## 声明
+
+本页面及其中所含的全部代码、内容与SEGA及任何关联公司（以下合称「SEGA」）之间不存在任何隶属、授权、认可或合作关系，亦未经SEGA审核或批准。本页面所展示的源代码已在GitHub上公开发布，仅按「现状」（AS IS）及「可提供」（AS AVAILABLE）之方式提供，不附带任何形式的明示或默示保证，包括但不限于对适销性、特定用途适用性及不侵权的默示保证。
+
+在适用法律允许的最大范围内，作者不对因使用、误用、依赖或无法使用本页面、本工具及其计算结果（包括但不限于由此产生的任何Access Code、直接损失、间接损失、附带损失、惩罚性赔偿或利润损失）所引致的任何损害承担责任，即使作者已被告知发生此类损害的可能性。使用者须自行承担使用本工具的全部风险，并对使用后果负全部责任。
+
+若本免责声明之任何条款被认定无效或不可执行，其余条款仍具完全效力。本声明受中华人民共和国法律管辖，并按其解释。
+
 <script setup lang="ts">
 import { ref } from "vue";
 import md5 from "md5";
 
 const PREFIX = "01036";
-const KEY = "A1B3E86CF02974D5";
+const KEY = "A1B3E86CF02974D6";
 
 const serialInput = ref("");
 const accessCode = ref("");
