@@ -79,6 +79,9 @@ export default hopeTheme({
     spoiler: true,
     highlighter: {
       type: "shiki",
+    },
+    math: {
+      type: "katex",
     }
   },
 

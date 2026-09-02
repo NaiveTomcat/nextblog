@@ -13,6 +13,7 @@
   "devDependencies": {
     "@vuepress/bundler-vite": "next",
     "@vuepress/plugin-google-analytics": "next",
+    "katex": "^0.18.5",
     "markdown-it": "^14.2.0",
     "mermaid": "^11.15.0",
     "sass-embedded": "^1.100.0",
