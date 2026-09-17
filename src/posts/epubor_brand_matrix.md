@@ -249,12 +249,12 @@ md5_update / sha256_*
 
 ## 参考资料
 
-[^1]: 各品牌官网：https://www.imelfin.com/ ・ https://www.sososofty.com/ ・ https://www.hisoftmate.com/
-[^2]: Epubor 产品页与联盟推广：https://www.epubor.com/softwares.html ・ https://www.epubor.com/affiliate.html
-[^3]: IP 归属查询：https://ipinfo.io/45.79.165.199
-[^4]: Epubor “About Us”（Innovate Software Limited）：https://www.epubor.com/about-us.html
-[^5]: BOSS直聘「武汉金读科技有限公司」招聘页：https://www.zhipin.com/gongsi/cdd953d819bfc30803xz0t67.html
-[^6]: 86hc.com 香港公司查册：创新软件有限公司 / INNOVATE SOFTWARE LIMITED（CRN 3467698，BRN 77220257，成立 2024-10-23）：https://www.86hc.com/innovate-software-limited
+[^1]: 各品牌官网：imElfin https://www.imelfin.com/（[存档](https://web.archive.org/web/20260917030718/https://www.imelfin.com/)）・ Sososofty https://www.sososofty.com/（[存档](https://web.archive.org/web/20260917030624/https://www.sososofty.com/)）・ Hisoftmate https://www.hisoftmate.com/（[存档](https://web.archive.org/web/20250821164933/https://www.hisoftmate.com/)）
+[^2]: Epubor 产品页 https://www.epubor.com/softwares.html（[存档](https://web.archive.org/web/20260909183820/https://www.epubor.com/softwares.html)）・ 联盟推广 https://www.epubor.com/affiliate.html（[存档](https://web.archive.org/web/20260917030541/https://www.epubor.com/affiliate.html)）
+[^3]: IP 归属查询：https://ipinfo.io/45.79.165.199（[存档](https://web.archive.org/web/20170518092215/http://ipinfo.io/45.79.165.199)）
+[^4]: Epubor “About Us”（Innovate Software Limited）：https://www.epubor.com/about-us.html（[存档](https://web.archive.org/web/20260917030016/https://www.epubor.com/about-us.html)）
+[^5]: BOSS直聘「武汉金读科技有限公司」招聘页：https://www.zhipin.com/gongsi/cdd953d819bfc30803xz0t67.html（该站屏蔽爬虫，Wayback 无法存档；[本地存档 PDF](/refs/zhipin-wuhan-jindu.pdf)）
+[^6]: 86hc.com 香港公司查册：创新软件有限公司 / INNOVATE SOFTWARE LIMITED（CRN 3467698，BRN 77220257，成立 2024-10-23）：https://www.86hc.com/innovate-software-limited（[存档](https://web.archive.org/web/20260917030501/https://www.86hc.com/innovate-software-limited)）
 
 ---
 
