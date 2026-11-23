@@ -27,18 +27,10 @@ jobs:
       # Run a build step here if your project requires
 
       - name: Publish to Cloudflare Pages
-        uses: cloudflare/pages-action@v1
+        uses: cloudflare/wrangler-action@v4
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: d1f95c6391900fdd0089a72528cd82b9
-          projectName: nextblog
-          directory: src/.vuepress/dist
-          # Optional: Enable this if you want to have GitHub Deployments triggered
+          packageManager: npm
+          command: pages deploy src/.vuepress/dist --project-name=nextblog
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
-          # Optional: Switch what branch you are publishing to.
-          # By default this will be the branch which triggered this workflow
-          # branch: master
-          # Optional: Change the working directory
-          # workingDirectory: my-site
-          # Optional: Change the Wrangler version, allows you to point to a specific version or a tag such as `beta`
-          # wranglerVersion: '3'
