@@ -27,10 +27,7 @@ jobs:
       # Run a build step here if your project requires
 
       - name: Publish to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v4
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: d1f95c6391900fdd0089a72528cd82b9
-          packageManager: npm
-          command: pages deploy src/.vuepress/dist --project-name=nextblog
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+        run: npx --yes wrangler@4 pages deploy src/.vuepress/dist --project-name=nextblog
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: d1f95c6391900fdd0089a72528cd82b9
