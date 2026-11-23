@@ -3,6 +3,11 @@ title: 有关Transgender话题的一点杂谈
 date: 2022-11-15 17:21:45
 permalink: /pages/b43aac/
 sidebar: false
+article: false
+timeline: false
+index: false
+dir:
+  index: false
 category:
   - 随笔
   - 杂谈

@@ -14,7 +14,7 @@ tag:
 
 ## 前言
 
-刚订阅了 Google One AI Ultra 5x 套餐，恰逢上周末有朋友拉我去打 SCUCTF 2026，于是想试试 Gemini 做 CTF 的性能。
+刚订阅了 Google One AI Ultra 5x 套餐，恰逢上周末有朋友拉我去打 SCUCTF 2026 新生赛，于是想试试 Gemini 做 CTF 的性能。
 
 我已经很久没有碰 CTF 了，因此这个比赛我几乎完全交给 Gemini。我所做的贡献主要集中在下载附件、开容器、交 flag。
 

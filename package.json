@@ -11,15 +11,15 @@
     "docs:update-package": "yarn dlx vp-update"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "next",
-    "@vuepress/plugin-google-analytics": "next",
+    "@vuepress/bundler-vite": "2.0.0-rc.32",
+    "@vuepress/plugin-google-analytics": "2.0.0-rc.138",
     "katex": "^0.18.5",
     "markdown-it": "^14.2.0",
     "mermaid": "^11.15.0",
-    "sass-embedded": "^1.100.0",
-    "vue": "^3.2.47",
-    "vuepress": "next",
-    "vuepress-theme-hope": "2.0.0-rc.106"
+    "sass-embedded": "^1.108.2",
+    "vue": "^3.5.35",
+    "vuepress": "2.0.0-rc.32",
+    "vuepress-theme-hope": "2.0.0-rc.111"
   },
   "dependencies": {
     "md5": "^2.3.0"
